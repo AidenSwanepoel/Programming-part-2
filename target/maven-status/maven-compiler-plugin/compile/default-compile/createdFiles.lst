@@ -1,0 +1,4 @@
+quickchat\main\QuickChat.class
+quickchat\messaging\Message$MessageData.class
+quickchat\messaging\Message.class
+quickchat\login\Login.class
