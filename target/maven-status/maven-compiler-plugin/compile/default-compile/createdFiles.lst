@@ -1,4 +1,4 @@
-quickchat\main\QuickChat.class
-quickchat\messaging\Message$MessageData.class
-quickchat\messaging\Message.class
-quickchat\login\Login.class
+com\iie\prog5121poe\Login.class
+com\iie\prog5121poe\Message.class
+com\iie\prog5121poe\Main.class
+com\iie\prog5121poe\Message$MessageData.class
